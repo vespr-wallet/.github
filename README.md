@@ -9,7 +9,10 @@
 ## What is VESPR?
 
 VESPR is Cardano’s top wallet - built for simplicity.
-Available on iOS, Android, and Chrome. Trusted by tens of thousands. Used for over half of Cardano’s daily user activity.
+
+Available on iOS, Android, and Chrome/Brave/Edge Extension. Trusted by tens of thousands. Used for over half of Cardano’s daily user activity.
+
+Download [HERE](https://vespr.xyz/redirect) for:
 
 - Onboarding in under 5 seconds.
 - Real privacy, non-custodial, self-sovereign.
