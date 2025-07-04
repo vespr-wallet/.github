@@ -1,14 +1,18 @@
 # VESPR Wallet
 
-**The leading non-custodial wallet for Cardano.**
+**The Leading Non-Custodial Cardano Wallet**  
+iOS • Android • Chrome Extension
 
-> Accept no substitutes.
+---
+
+Welcome to the official GitHub for **VESPR Wallet**, the secure, user-focused gateway to Cardano. Here you’ll find everything related to our open-source projects, SDKs, and developer tools.
 
 ---
 
 ## What is VESPR?
 
-VESPR is Cardano’s top wallet - built for simplicity.
+VESPR Wallet is a non-custodial Cardano wallet built for performance, security, and usability.  
+We put users in control—no custodial risk, no compromises.
 
 Available on iOS, Android, and Chrome/Brave/Edge Extension. Trusted by tens of thousands. Used for over half of Cardano’s daily user activity.
 
@@ -71,3 +75,9 @@ Don’t open a public issue. Email [all@vespr.xyz](mailto:all@vespr.xyz).
 - Here to shill.
 
 We build. You own your keys. That’s it.
+
+
+---
+
+**VESPR Wallet**  
+Built for Cardano. Built for everyone.
