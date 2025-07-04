@@ -1,7 +1,7 @@
 # VESPR Wallet
 
 **The Leading Non-Custodial Cardano Wallet**  
-iOS • Android • Chrome Extension
+[iOS](https://apps.apple.com/us/app/vespr-cardano-wallet/id1565749376) • [Android](https://play.google.com/store/apps/details?id=art.nft_craze.gallery.main&utm_source=vespr_github&utm_medium=readme) • [Chrome/Brave/Edge Extension](https://chromewebstore.google.com/detail/vespr-wallet/bedogdpgdnifilpgeianmmdabklhfkcn?utm_source=vespr_github&utm_medium=readme)
 
 ---
 
