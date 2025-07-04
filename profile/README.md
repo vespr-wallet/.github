@@ -25,14 +25,11 @@ Download [HERE](https://vespr.xyz/redirect) for:
 
 ## Open Source Flutter SDKs (Ledger)
 
-We maintain the only real Cardano mobile stack.  
-No JavaScript wrappers – build true native dApps.
-
 - [Ledger Flutter Plus (MIT)](https://github.com/vespr-wallet/ledger-flutter-plus)
 - [Ledger USB Plus (MIT)](https://github.com/vespr-wallet/ledger-usb-plus)
 
-### Ledger-Cardano
-- [Ledger Cardano Plugin (MIT)](https://github.com/vespr-wallet/ledger-cardano-plus)
+#### Ledger + Cardano
+- [Ledger Flutter Plus - Cardano Plugin (MIT)](https://github.com/vespr-wallet/ledger-cardano-plus)
 - [Cardano SDK to Ledger Cardano Interop (MIT)](https://github.com/vespr-wallet/cardano_sdk_ledger_interop)
 
 ---
